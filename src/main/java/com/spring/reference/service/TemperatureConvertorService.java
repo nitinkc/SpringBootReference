@@ -1,5 +1,4 @@
-package com.example.demo.service;
-
+package com.spring.reference.service;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package com.spring.reference.controller;
 
 import com.spring.reference.entity.Currency;
-import com.example.demo.service.CurrencyConvertorService;
+import com.spring.reference.service.CurrencyConvertorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package com.spring.reference.controller;
 
 import com.spring.reference.entity.Temperature;
-import com.example.demo.service.TemperatureConvertorService;
+import com.spring.reference.service.TemperatureConvertorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
